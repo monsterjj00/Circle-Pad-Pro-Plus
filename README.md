@@ -64,7 +64,7 @@ GP20	HOME
 
 GP21	POWER
 
-GP22	POWER (long-press0
+GP22	POWER (long-press)
 
 GP26 (ADC0)	C-stick X	Analog New 3DS only
 
