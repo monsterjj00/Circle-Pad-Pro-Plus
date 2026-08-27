@@ -11,7 +11,8 @@ https://github.com/PretendoNetwork
 
 If any of these sources have issue with how ive used their code please contact me and Ill make the required changes or actions.
 ------------------------
-
+This project is an implementation of InputRedirect-QT to work locally on a Rasperry Pi Pico 2W to allow for wireless game controller inputs to the 3DS family of systems without a MITM device.
+------------------------
 
 Setup
 ------------------------
