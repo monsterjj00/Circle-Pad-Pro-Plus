@@ -17,7 +17,7 @@ Setup
 ------------------------
 Flash a Pi Pico 2W with the latest version of Micropython and add the main.py to the pico
 
-In the main.py you can change the name for the access point that the access point to avoid issue with multiple devices
+In the main.py you can change the name for the access point that the Pico provides to avoid issues with multiple devices
 
 On the 3ds connect via wifi to your Pi Picos AP and enable LumaCFW Input Redirect
 
