@@ -56,13 +56,13 @@ GP16	Circle Pad Left
 
 GP17	Circle Pad Right
 
-GP18	ZL	Digital in New 3DS only
+GP18	ZLnNew 3DS only
 
-GP19	ZR	Digital in New 3DS only
+GP19	ZR New 3DS only
 
-GP20	HOME	Digital in, pull-up	active-high in packet, pull-up wiring unaffected
+GP20	HOME	
 
-GP21	POWER	Digital in, pull-up	
+GP21	POWER
 
 GP22	POWER (long-press0
 
