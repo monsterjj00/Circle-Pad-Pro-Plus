@@ -56,9 +56,9 @@ GP16	Circle Pad Left
 
 GP17	Circle Pad Right
 
-GP18	ZL	Digital in, pull-up	New 3DS only
+GP18	ZL	Digital in New 3DS only
 
-GP19	ZR	Digital in, pull-up	New 3DS only
+GP19	ZR	Digital in New 3DS only
 
 GP20	HOME	Digital in, pull-up	active-high in packet, pull-up wiring unaffected
 
@@ -66,9 +66,9 @@ GP21	POWER	Digital in, pull-up
 
 GP22	POWER (long-press0
 
-GP26 (ADC0)	C-stick X	Analog
+GP26 (ADC0)	C-stick X	Analog New 3DS only
 
-GP27 (ADC1)	C-stick Y	Analog
+GP27 (ADC1)	C-stick Y	Analog New 3DS only
 
 GP28 UNUSED
 
