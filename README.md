@@ -90,3 +90,5 @@ As well as pressing L/R on the pico disables all face buttons/Dpad on console wh
 
 Obviously this is not ideal as many games use the face buttons and L/R for actions.
 If there were a way around this Id love to know.
+
+On top of that, obviously you also lose connection to pretendo servers as your 3ds is connected to a fake network. You do not lose Local Wireless play though
