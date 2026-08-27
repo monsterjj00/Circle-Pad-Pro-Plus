@@ -21,6 +21,8 @@ In the main.py you can change the name for the access point that the Pico provid
 
 On the 3ds connect via wifi to your Pi Picos AP and enable LumaCFW Input Redirect
 
+Take note of the IP Input redirect gives you, if it is different from the expected IP in the pico change it accordingly on the main.py
+
 Pinout
 -----------------------
 
