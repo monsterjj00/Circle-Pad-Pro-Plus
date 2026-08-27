@@ -80,6 +80,8 @@ Circle pad is all digital for the fact that there are not enough analog pins wit
 Known issues
 -----------------------
 
+As input redirect does not send Cstick inputs to the OLD 3DS systems this as well cannot send them. Do not expect this to add real CPP functionality to an OLD 3DS System (3ds/2ds/3dsxl)
+
 Due to how Input redirect in LumaCFW is written pressing ZL/ZR on the console will disable the use of the C-stick on the pico.
 As well as pressing L/R on the pico disables all face buttons/Dpad on console when pressed/held.
 
