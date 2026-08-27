@@ -3,7 +3,9 @@ To admit on line one this code is heavily AI Assisted. I am not very knowledgeab
 
 Code Referenced and taken from these sources.
 https://github.com/LumaTeam/Luma3DS
+
 https://github.com/TuxSH/InputRedirectionClient-Qt
+
 https://github.com/PretendoNetwork
 
 If any of these sources have issue with how ive used their code please contact me and Ill make the required changes or actions.
